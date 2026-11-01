@@ -1,0 +1,13 @@
+# Resultados generados en tiempo de ejecución
+resultados/*.json
+!resultados/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
